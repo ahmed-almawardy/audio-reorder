@@ -1,0 +1,9 @@
+# envs
+env
+.env
+venv
+.venv
+
+
+#vscode
+.vsco*
